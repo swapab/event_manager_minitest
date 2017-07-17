@@ -1,1 +1,3 @@
 .ruby*
+/coverage.data
+/coverage/

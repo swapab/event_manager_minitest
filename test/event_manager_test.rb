@@ -1,5 +1,4 @@
-require 'minitest/autorun'
-require './event_manager'
+require './test/test_helper'
 
 class EventManagerTest < MiniTest::Test
 
